@@ -1,0 +1,3 @@
+[submodule "ai-recipe-generator"]
+	path = ai-recipe-generator
+	url = https://github.com/Only1allan/ai-recipe-generator.git
