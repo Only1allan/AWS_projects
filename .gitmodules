@@ -1,3 +1,6 @@
 [submodule "ai-recipe-generator"]
 	path = ai-recipe-generator
 	url = https://github.com/Only1allan/ai-recipe-generator.git
+[submodule "Three-Tier-AWS"]
+	path = Three-Tier-AWS
+	url = https://github.com/Only1allan/Three-Tier-AWS
