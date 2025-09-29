@@ -4,3 +4,6 @@
 [submodule "AI-recipe-generator"]
 	path = AI-recipe-generator
 	url = https://github.com/Only1allan/ai-recipe-generator.git
+[submodule "ML_Models_SageMaker"]
+	path = ML_Models_SageMaker
+	url = https://github.com/Only1allan/ML-Model-with-SageMaker
