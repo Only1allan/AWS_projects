@@ -7,3 +7,6 @@
 [submodule "ML_Models_SageMaker"]
 	path = ML_Models_SageMaker
 	url = https://github.com/Only1allan/ML-Model-with-SageMaker
+[submodule "Document_handling_with_ML"]
+	path = Document_handling_with_ML
+	url = https://github.com/Only1allan/Document_handling_with_ML.git
