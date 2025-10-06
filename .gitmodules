@@ -10,3 +10,6 @@
 [submodule "Document_handling_with_ML"]
 	path = Document_handling_with_ML
 	url = https://github.com/Only1allan/Document_handling_with_ML.git
+[submodule "Gen-AI-On-SageMarker"]
+	path = Gen-AI-On-SageMarker
+	url = https://github.com/Only1allan/Gen-AI-on-SageMarker/
