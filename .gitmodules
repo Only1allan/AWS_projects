@@ -16,3 +16,6 @@
 [submodule "Document-Processing-ML"]
 	path = Document-Processing-ML
 	url = https://github.com/Only1allan/Document-Processing-ML
+[submodule "Children_Stories-Generator"]
+	path = Children_Stories-Generator
+	url = https://github.com/Only1allan/children-stories-generator
