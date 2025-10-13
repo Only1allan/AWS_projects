@@ -13,3 +13,6 @@
 [submodule "Gen-AI-On-SageMarker"]
 	path = Gen-AI-On-SageMarker
 	url = https://github.com/Only1allan/Gen-AI-on-SageMarker/
+[submodule "Document-Processing-ML"]
+	path = Document-Processing-ML
+	url = https://github.com/Only1allan/Document-Processing-ML
