@@ -19,3 +19,6 @@
 [submodule "Children_Stories-Generator"]
 	path = Children_Stories-Generator
 	url = https://github.com/Only1allan/children-stories-generator
+[submodule "Inference-SageMarker-Endpoint"]
+	path = Inference-SageMarker-Endpoint
+	url = https://github.com/Only1allan/Inference-SageMarker-Endpoint
