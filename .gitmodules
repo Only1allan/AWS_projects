@@ -22,3 +22,6 @@
 [submodule "Inference-SageMarker-Endpoint"]
 	path = Inference-SageMarker-Endpoint
 	url = https://github.com/Only1allan/Inference-SageMarker-Endpoint
+[submodule "local-rag-workshop"]
+	path = local-rag-workshop
+	url = https://github.com/Only1allan/local-rag-workshop
