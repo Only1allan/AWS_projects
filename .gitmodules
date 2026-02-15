@@ -25,3 +25,6 @@
 [submodule "local-rag-workshop"]
 	path = local-rag-workshop
 	url = https://github.com/Only1allan/local-rag-workshop
+[submodule "aws-rag-workshop"]
+	path = aws-rag-workshop
+	url = https://github.com/Only1allan/aws-rag-workshop
